@@ -74,7 +74,7 @@ body.appear {
 }
 
 header {
-   --background-color: Green;
+  
   height: var(--nav-height);
 }
 
